@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="47"
@@ -32,7 +33,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="14.971407"
-     inkscape:cx="13.070225"
+     inkscape:cx="22.78875"
      inkscape:cy="23.439705"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -70,6 +71,18 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient829">
+      <stop
+         style="stop-color:#00cc99;stop-opacity:1"
+         offset="0"
+         id="stop825" />
+      <stop
+         style="stop-color:#00ccff;stop-opacity:1"
+         offset="1"
+         id="stop827" />
+    </linearGradient>
     <style
        type="text/css"
        id="current-color-scheme">
@@ -118,6 +131,24 @@
         stop-color:#3daee9;
       }
       </style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient829"
+       id="linearGradient831"
+       x1="36"
+       y1="53.849989"
+       x2="68"
+       y2="53.849989"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient829"
+       id="linearGradient839"
+       x1="35.999996"
+       y1="53.849991"
+       x2="67.999992"
+       y2="53.849991"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata7">
@@ -145,7 +176,7 @@
          width="32"
          id="rect831"
          class="ColorScheme-Text"
-         style="opacity:1;fill:#00aa7f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.97878015;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:url(#linearGradient831);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.97878015;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
          style="opacity:1;fill:none;fill-opacity:0.6;fill-rule:nonzero;stroke:none;stroke-width:1.78699994;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          class="ColorScheme-Highlight"
@@ -167,7 +198,7 @@
        id="vertical-line"
        transform="rotate(90,63,43)">
       <rect
-         style="opacity:1;fill:#00aa7f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.97878015;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:url(#linearGradient839);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.97878015;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          class="ColorScheme-Text"
          id="rect833"
          width="32"
