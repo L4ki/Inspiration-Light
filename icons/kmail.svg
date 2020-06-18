@@ -7,38 +7,39 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 22 22"
-   id="svg"
-   version="1.1"
-   width="100%"
-   height="100%"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="kmail.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   height="100%"
+   width="100%"
+   version="1.1"
+   id="svg"
+   viewBox="0 0 22 22">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
-     id="namedview9"
-     showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="-2.563559"
-     inkscape:cy="11"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg" />
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="11"
+     inkscape:cx="-2.563559"
+     inkscape:zoom="10.727273"
+     showgrid="false"
+     id="namedview9"
+     inkscape:window-height="1022"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
   <defs
      id="defs81">
     <style
-       id="current-color-scheme"
-       type="text/css">
+       type="text/css"
+       id="current-color-scheme">
       .ColorScheme-Text {
         color:#7B7C7E;
       }
@@ -87,19 +88,19 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="kmail"
-     transform="translate(-41,-1)">
+     transform="translate(-41,-1)"
+     id="kmail">
     <rect
-       style="fill:#ffffff;fill-opacity:0.01000001;stroke:none"
-       id="rect3805"
-       width="22"
-       height="22"
+       y="1"
        x="41"
-       y="1" />
+       height="22"
+       width="22"
+       id="rect3805"
+       style="fill:#ffffff;fill-opacity:0.01000001;stroke:none" />
     <path
-       style="fill:#2e3440;fill-opacity:1;stroke:none"
-       d="m 42.000002,4 0,1 0,14 0,0.414062 0,0.585938 1,0 19,0 0,-0.585938 0,-0.414062 0,-1 0,-14 -0.04883,0 L 61,4 43.462891,4 43,4 42,4 z m 1,1 0.04883,0 5.974609,5.976563 L 43.000002,17 l 0,-12 z M 44.462893,5 59.537111,5 52.000002,12.537109 44.462893,5 z m 16.488281,0 0.04883,0 0,12 L 54.97656,10.976563 60.95117,5 z m -11.220703,6.683594 2.269531,2.267578 2.269531,-2.267578 6.267578,6.267578 0.462891,0.46289 0,0.585938 -18,0 0,-0.585938 0.462891,-0.46289 6.267578,-6.267578 z"
+       class="ColorScheme-Text"
        id="rect4144-6"
-       class="ColorScheme-Text" />
+       d="m 42.000002,4 0,1 0,14 0,0.414062 0,0.585938 1,0 19,0 0,-0.585938 0,-0.414062 0,-1 0,-14 -0.04883,0 L 61,4 43.462891,4 43,4 42,4 z m 1,1 0.04883,0 5.974609,5.976563 L 43.000002,17 l 0,-12 z M 44.462893,5 59.537111,5 52.000002,12.537109 44.462893,5 z m 16.488281,0 0.04883,0 0,12 L 54.97656,10.976563 60.95117,5 z m -11.220703,6.683594 2.269531,2.267578 2.269531,-2.267578 6.267578,6.267578 0.462891,0.46289 0,0.585938 -18,0 0,-0.585938 0.462891,-0.46289 6.267578,-6.267578 z"
+       style="fill:#0b0c0d;fill-opacity:1;stroke:none" />
   </g>
 </svg>

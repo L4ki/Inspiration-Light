@@ -7,33 +7,34 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   style="display:inline"
-   id="svg14997"
-   height="24"
-   width="24"
-   version="1.1"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="clementine.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   version="1.1"
+   width="24"
+   height="24"
+   id="svg14997"
+   style="display:inline">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
-     id="namedview8"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="-2.7966102"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg14997"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg14997" />
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="12"
+     inkscape:cx="-2.7966102"
+     inkscape:zoom="9.8333333"
+     showgrid="false"
+     id="namedview8"
+     inkscape:window-height="1022"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
   <metadata
      id="metadata15003">
     <rdf:RDF>
@@ -51,15 +52,15 @@
   <g
      id="clementine">
     <rect
-       style="fill:#ffffff;fill-opacity:0;stroke:none"
-       id="rect16227"
-       y="0"
-       x="0"
+       width="24"
        height="24"
-       width="24" />
+       x="0"
+       y="0"
+       id="rect16227"
+       style="fill:#ffffff;fill-opacity:0;stroke:none" />
     <path
-       style="fill:#2e3440;fill-opacity:1;stroke:none"
+       d="M 6.7892409,17.02344 C 10.828986,22.395206 18.02173,21.73869 19.984922,19.826773 20.92391,18.411277 16.923931,18.168311 12.1578,12.613479 7.391669,7.0586467 8.1325259,2.7960049 6.9618692,3.2512067 3.4806877,5.3019487 2.9463016,11.373191 6.7892409,17.02344 Z"
        id="path3765"
-       d="M 6.7892409,17.02344 C 10.828986,22.395206 18.02173,21.73869 19.984922,19.826773 20.92391,18.411277 16.923931,18.168311 12.1578,12.613479 7.391669,7.0586467 8.1325259,2.7960049 6.9618692,3.2512067 3.4806877,5.3019487 2.9463016,11.373191 6.7892409,17.02344 Z" />
+       style="fill:#0b0c0d;fill-opacity:1;stroke:none" />
   </g>
 </svg>

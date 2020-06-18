@@ -7,38 +7,39 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 22 22"
-   id="svg"
-   version="1.1"
-   width="100%"
-   height="100%"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="quassel.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   height="100%"
+   width="100%"
+   version="1.1"
+   id="svg"
+   viewBox="0 0 22 22">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
-     id="namedview15"
-     showgrid="false"
-     inkscape:zoom="3.7926636"
-     inkscape:cx="-1.1499665"
-     inkscape:cy="25.815846"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg" />
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="25.815846"
+     inkscape:cx="-1.1499665"
+     inkscape:zoom="3.7926636"
+     showgrid="false"
+     id="namedview15"
+     inkscape:window-height="1022"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
   <defs
      id="defs81">
     <style
-       id="current-color-scheme"
-       type="text/css">
+       type="text/css"
+       id="current-color-scheme">
       .ColorScheme-Text {
         color:#7B7C7E;
       }
@@ -87,54 +88,54 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="quassel"
-     transform="translate(-1,-1)">
-    <rect
-       y="1"
-       x="1"
-       height="22"
-       width="22"
-       id="rect3881"
-       style="fill:#ffffff;fill-opacity:0.01000001;stroke:none" />
-    <path
-       style="fill:#2e3440;fill-opacity:1;stroke:none"
-       d="m 11,3 c -4.418278,0 -8,3.581722 -8,8 0,4.418278 3.581722,8 8,8 4.418278,0 8,-3.581722 8,-8 0,-4.418278 -3.581722,-8 -8,-8 z m 0,1 c 3.865993,0 7,3.1340068 7,7 0,3.865993 -3.134007,7 -7,7 C 7.1340068,18 4,14.865993 4,11 4,7.1340068 7.1340068,4 11,4 z m 2,7 c -1.656854,0 -3,1.343146 -3,3 0,1.656854 1.343146,3 3,3 1.656854,0 3,-1.343146 3,-3 0,-1.656854 -1.343146,-3 -3,-3 z"
-       transform="translate(1,1)"
-       id="path2999"
-       class="ColorScheme-Text" />
-  </g>
-  <g
-     transform="translate(-25,-1)"
-     id="quassel_inactive">
+     transform="translate(-1,-1)"
+     id="quassel">
     <rect
        style="fill:#ffffff;fill-opacity:0.01000001;stroke:none"
-       id="rect3777"
+       id="rect3881"
        width="22"
        height="22"
        x="1"
        y="1" />
     <path
        class="ColorScheme-Text"
-       id="path3779"
+       id="path2999"
        transform="translate(1,1)"
        d="m 11,3 c -4.418278,0 -8,3.581722 -8,8 0,4.418278 3.581722,8 8,8 4.418278,0 8,-3.581722 8,-8 0,-4.418278 -3.581722,-8 -8,-8 z m 0,1 c 3.865993,0 7,3.1340068 7,7 0,3.865993 -3.134007,7 -7,7 C 7.1340068,18 4,14.865993 4,11 4,7.1340068 7.1340068,4 11,4 z m 2,7 c -1.656854,0 -3,1.343146 -3,3 0,1.656854 1.343146,3 3,3 1.656854,0 3,-1.343146 3,-3 0,-1.656854 -1.343146,-3 -3,-3 z"
-       style="opacity:0.2;fill:#2e3440;fill-opacity:1;stroke:none" />
+       style="fill:#0b0c0d;fill-opacity:1;stroke:none" />
   </g>
   <g
-     transform="translate(23,-1)"
-     id="quassel_message">
+     id="quassel_inactive"
+     transform="translate(-25,-1)">
     <rect
-       style="fill:#ffffff;fill-opacity:0.01000001;stroke:none"
-       id="rect3785"
-       width="22"
-       height="22"
+       y="1"
        x="1"
-       y="1" />
+       height="22"
+       width="22"
+       id="rect3777"
+       style="fill:#ffffff;fill-opacity:0.01000001;stroke:none" />
     <path
-       class="ColorScheme-Highlight"
-       id="path3787"
-       transform="translate(1,1)"
+       style="opacity:0.5;fill:#2e3440;fill-opacity:1;stroke:none"
        d="m 11,3 c -4.418278,0 -8,3.581722 -8,8 0,4.418278 3.581722,8 8,8 4.418278,0 8,-3.581722 8,-8 0,-4.418278 -3.581722,-8 -8,-8 z m 0,1 c 3.865993,0 7,3.1340068 7,7 0,3.865993 -3.134007,7 -7,7 C 7.1340068,18 4,14.865993 4,11 4,7.1340068 7.1340068,4 11,4 z m 2,7 c -1.656854,0 -3,1.343146 -3,3 0,1.656854 1.343146,3 3,3 1.656854,0 3,-1.343146 3,-3 0,-1.656854 -1.343146,-3 -3,-3 z"
-       style="fill:#2e3440;fill-opacity:1;stroke:none" />
+       transform="translate(1,1)"
+       id="path3779"
+       class="ColorScheme-Text" />
+  </g>
+  <g
+     id="quassel_message"
+     transform="translate(23,-1)">
+    <rect
+       y="1"
+       x="1"
+       height="22"
+       width="22"
+       id="rect3785"
+       style="fill:#ffffff;fill-opacity:0.01000001;stroke:none" />
+    <path
+       style="fill:#0b0c0d;fill-opacity:1;stroke:none"
+       d="m 11,3 c -4.418278,0 -8,3.581722 -8,8 0,4.418278 3.581722,8 8,8 4.418278,0 8,-3.581722 8,-8 0,-4.418278 -3.581722,-8 -8,-8 z m 0,1 c 3.865993,0 7,3.1340068 7,7 0,3.865993 -3.134007,7 -7,7 C 7.1340068,18 4,14.865993 4,11 4,7.1340068 7.1340068,4 11,4 z m 2,7 c -1.656854,0 -3,1.343146 -3,3 0,1.656854 1.343146,3 3,3 1.656854,0 3,-1.343146 3,-3 0,-1.656854 -1.343146,-3 -3,-3 z"
+       transform="translate(1,1)"
+       id="path3787"
+       class="ColorScheme-Highlight" />
   </g>
 </svg>

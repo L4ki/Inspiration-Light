@@ -7,33 +7,34 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   style="display:inline"
-   id="svg14997"
-   height="24"
-   width="24"
-   version="1.1"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="transmission-qt.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   version="1.1"
+   width="24"
+   height="24"
+   id="svg14997"
+   style="display:inline">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
-     id="namedview13"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="-2.7966102"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg14997"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg14997" />
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="12"
+     inkscape:cx="-2.7966102"
+     inkscape:zoom="9.8333333"
+     showgrid="false"
+     id="namedview13"
+     inkscape:window-height="1022"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
   <metadata
      id="metadata15003">
     <rdf:RDF>
@@ -51,51 +52,51 @@
   <g
      id="transmission-qt">
     <rect
-       style="fill:#ffffff;fill-opacity:0;stroke:none"
-       id="rect16227"
-       y="0"
-       x="0"
+       width="24"
        height="24"
-       width="24" />
+       x="0"
+       y="0"
+       id="rect16227"
+       style="fill:#ffffff;fill-opacity:0;stroke:none" />
     <g
-       style="display:inline"
+       transform="matrix(1.0191118,0,0,1.0339609,46.210672,-14.668392)"
        id="g21067"
-       transform="matrix(1.0191118,0,0,1.0339609,46.210672,-14.668392)">
+       style="display:inline">
       <g
-         transform="translate(0.342767,0.65162207)"
+         id="g4151"
          style="fill:#174d58;fill-opacity:1"
-         id="g4151" />
+         transform="translate(0.342767,0.65162207)" />
       <rect
-         style="fill:#2e3440;fill-opacity:1;stroke:none"
-         id="rect20547"
-         y="24.555555"
-         x="-40"
-         ry="0.52350342"
-         rx="0.52573532"
+         width="13"
          height="9.6610174"
-         width="13" />
-      <rect
-         style="fill:#00aa7f;fill-opacity:1;stroke:none"
-         id="rect21057"
-         y="18.843691"
-         x="-34.968838"
-         ry="0.57860905"
-         rx="0.44000009"
-         height="7.4237289"
-         width="3.0000005" />
-      <rect
-         style="fill:#00aa7f;fill-opacity:1;stroke:none"
-         id="rect21061"
-         y="17"
+         rx="0.52573532"
+         ry="0.52350342"
          x="-40"
-         ry="0.5394637"
-         rx="0.55000001"
+         y="24.555555"
+         id="rect20547"
+         style="fill:#0b0c0d;fill-opacity:1;stroke:none" />
+      <rect
+         width="3.0000005"
+         height="7.4237289"
+         rx="0.44000009"
+         ry="0.57860905"
+         x="-34.968838"
+         y="18.843691"
+         id="rect21057"
+         style="fill:#00aa7f;fill-opacity:1;stroke:none" />
+      <rect
+         width="13"
          height="3.5555561"
-         width="13" />
+         rx="0.55000001"
+         ry="0.5394637"
+         x="-40"
+         y="17"
+         id="rect21061"
+         style="fill:#00aa7f;fill-opacity:1;stroke:none" />
       <path
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="M -35,24.555556 -35,29 l -3,0 4.502056,3.555556 L -29,29 l -3,0 0,-4.444444 z"
          id="path21063"
-         d="M -35,24.555556 -35,29 l -3,0 4.502056,3.555556 L -29,29 l -3,0 0,-4.444444 z" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>

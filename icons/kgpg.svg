@@ -7,38 +7,39 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 22 22"
-   id="svg"
-   version="1.1"
-   width="100%"
-   height="100%"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="kgpg.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   height="100%"
+   width="100%"
+   version="1.1"
+   id="svg"
+   viewBox="0 0 22 22">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
-     id="namedview9"
-     showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="-2.563559"
-     inkscape:cy="11"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg" />
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="11"
+     inkscape:cx="-2.563559"
+     inkscape:zoom="10.727273"
+     showgrid="false"
+     id="namedview9"
+     inkscape:window-height="1022"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
   <defs
      id="defs81">
     <style
-       id="current-color-scheme"
-       type="text/css">
+       type="text/css"
+       id="current-color-scheme">
       .ColorScheme-Text {
         color:#7B7C7E;
       }
@@ -87,19 +88,19 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-36,-1)"
-     id="kgpg">
+     id="kgpg"
+     transform="translate(-36,-1)">
     <rect
-       style="opacity:0.01000001;fill:#00000f;fill-opacity:0.00392157;stroke:none"
-       id="rect3814-8"
-       width="22"
-       height="22"
+       y="1"
        x="36"
-       y="1" />
+       height="22"
+       width="22"
+       id="rect3814-8"
+       style="opacity:0.01000001;fill:#00000f;fill-opacity:0.00392157;stroke:none" />
     <path
-       style="fill:#2e3440;fill-opacity:1;stroke:none"
-       d="m 47,4 c -2.216,0 -4,1.784 -4,4 l 0,4 -2,0 0,1 0,7 1,0 10,0 1,0 0,-8 -1,0 -1,0 0,-4 C 51,5.784 49.216,4 47,4 z m 0,1 c 1.662,0 3,1.561 3,3.5 l 0,3.5 -6,0 0,-3.5 C 44,6.561 45.338,5 47,5 z"
+       class="ColorScheme-Text"
        id="rect4136-4"
-       class="ColorScheme-Text" />
+       d="m 47,4 c -2.216,0 -4,1.784 -4,4 l 0,4 -2,0 0,1 0,7 1,0 10,0 1,0 0,-8 -1,0 -1,0 0,-4 C 51,5.784 49.216,4 47,4 z m 0,1 c 1.662,0 3,1.561 3,3.5 l 0,3.5 -6,0 0,-3.5 C 44,6.561 45.338,5 47,5 z"
+       style="fill:#0b0c0d;fill-opacity:1;stroke:none" />
   </g>
 </svg>
