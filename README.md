@@ -22,3 +22,9 @@ Changelog: 12.12.2019.
 ---------------------
 
 Redesigned Theme
+
+Changelog: 18.06.2020.
+----------------------
+
+Redesigned Theme
+
